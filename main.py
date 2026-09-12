@@ -1,11 +1,11 @@
 import os
 from modules.ideas import show_ideas, add_ideas
 
-list_ideas = {
+list_ideas = [
     {"name": "Трекер привычек", "topic": "Консольное приложение", "difficulty": "Легко"},
     {"name": "Клиент-серверное приложение", "topic": "UI приложение", "difficulty": "Средне"},
     {"name": "Обфускатор для питона", "topic": "Консольное приложение", "difficulty": "Сложно"},
-}
+]
 
 
 
