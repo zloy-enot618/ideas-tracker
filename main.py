@@ -30,7 +30,7 @@ def Logic(sa, ideas):
     elif sa == 4:
         exit()
     elif sa == 3:
-        print("")
+        print("https://github.com/zloy-enot618/ideas-tracker/tree/master")
     elif sa == 1:
         show_ideas(list_ideas)
 
